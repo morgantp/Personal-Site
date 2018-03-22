@@ -101,3 +101,7 @@ footer .h5{
   font-family: 'Kaushan Script', cursive;
   font-size: 40px;
 }
+
+.wrapper {
+  text-align: center;
+}
