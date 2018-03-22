@@ -1,0 +1,103 @@
+body{
+  background-image: url('../assets/rockywall.png');
+  background-attachment: fixed;
+}
+
+#nameTitle{
+  font-size: 40px;
+  font-family: 'Kaushan Script', cursive;
+}
+#navbarNav{
+  font-size: 18px
+}
+
+#backgroundAnimation{
+  position: fixed;
+  z-index: -1;
+  top: 0;
+  left: 0;
+}
+
+.navbar-brand p{
+  margin-top: -55px;
+  font-family: 'Montserrat', sans-serif;
+  margin-left: 105px;
+}
+
+.navbar-brand img{
+  margin-top: 20px;
+}
+
+.nav-link{
+  margin-right: 50px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+#welcomeArea h1{
+  font-size: 12rem;
+  font-family: 'Kaushan Script', cursive;
+  text-align: center;
+}
+
+#aboutMeArea{
+  background-color: #ddd;
+}
+
+#aboutMeArea h1{
+  font-family: 'Kaushan Script', cursive;
+  font-size: 50px;
+  padding-top: 5px;
+  margin-bottom: -5px;
+}
+
+#aboutMeArea p{
+    font-family: 'Muli', sans-serif;
+    font-size: 20px;
+}
+
+.carousel-caption h1{
+  font-family: 'Kaushan Script', cursive;
+  font-size: 5rem;
+    margin-bottom: 8rem;
+    color: black;
+}
+
+#modalLabel{
+  font-family: 'Kaushan Script', cursive;
+  font-size: 30px;
+}
+
+#modalBody p{
+  font-family: 'Muli', sans-serif;
+  font-size: 18px;
+}
+#myWorkArea h5{
+  font-family: 'Kaushan Script', cursive;
+  font-size: 30px;
+  text-align: center;
+  margin-top: 10px;
+}
+
+#contactMeArea h2{
+  font-family: 'Kaushan Script', cursive;
+  font-size: 40px;
+  }
+
+  footer{
+  background-color: #aaa;
+}
+
+footer .h5{
+  font-family: 'Kaushan Script', cursive;
+  font-size: 40px;
+}
+
+.Copyright{
+    font-family: 'Muli', sans-serif;
+  font-size: 15pt;
+}
+
+#socialmedia{
+  font-family: 'Kaushan Script', cursive;
+  font-size: 40px;
+}
